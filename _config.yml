@@ -8,7 +8,7 @@ title                    : "Marcello Roy"
 title_separator          : "-"
 name                     : "Marcello Roy"
 description              : "Portfolio Marcello Roy"
-logo: "{{ site.baseurl }}/assets/images/font-roy.png"
+logo                     : "/assets/images/font-roy.png"
 masthead_title           : " "
 breadcrumbs              : true
 words_per_minute         : 160
