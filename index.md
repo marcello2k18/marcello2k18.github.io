@@ -1,5 +1,6 @@
 ---
 title: "About"
-redirect_to:
-  - /about/
+permalink: /about/
+layout: single
+author_profile: true
 ---
