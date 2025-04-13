@@ -1,5 +1,5 @@
 ---
 title: "About"
 redirect_to:
-  - https://chriskhanhtran.github.io/about/
+  - https://Marcello-Roy.github.io/about/
 ---
