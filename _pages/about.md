@@ -5,7 +5,7 @@ header:
   image: /assets/images/about-header-1566x403.jpg 
 ---
 
-<img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
+<img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/roy-modified.png" width="250">{: .align-center}
 
 [Resume](https://marcello2k18.github.io/Marcello-Roy.github.io/cv/){: .btn .btn--info} [Portfolio](https://marcello2k18.github.io/Marcello-Roy.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/marcello){: .btn .btn--info}
 {: .text-center}
