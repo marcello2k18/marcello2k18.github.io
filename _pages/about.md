@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/about-header-1566x403.jpg 
+  image: /assets/images/Header-Roy.png
 ---
 
 <img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/roy-modified.png" width="250">{: .align-center}
