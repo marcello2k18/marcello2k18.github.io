@@ -100,6 +100,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+collections:
+  pages:
+    output: true
+    permalink: /:tittle/
+
 # Defaults
 defaults:
   - scope:
