@@ -8,6 +8,8 @@ title                    : "Marcello Roy"
 title_separator          : "-"
 name                     : "Marcello Roy"
 description              : "Portfolio Marcello Roy"
+url: "https://marcello2k18.github.io"
+baseurl: ""  # KOSONG!
 logo                     : "/assets/images/font-roy.png"
 masthead_title           : " "
 breadcrumbs              : true
