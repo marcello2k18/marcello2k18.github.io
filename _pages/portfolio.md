@@ -16,7 +16,7 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://github.com/marcello2k18/Vehicle-Detection))
 
-- - [Notebook 4](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
+- [Notebook 4](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
 
 
 <img src="https://github.com/marcello2k18/Vehicle-Detection/blob/main/Vehicle%20Detection.png?raw=true" width="580" align="middle">
