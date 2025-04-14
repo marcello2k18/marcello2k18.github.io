@@ -9,7 +9,7 @@ toc_icon: "bookmark"
 *Updated: 08/12/2020*
 
 ## 🤖 Computer Vision
-### Object Detection with Detectron2
+### Vehicle Detection with CNN
 
 <img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="200">
 
