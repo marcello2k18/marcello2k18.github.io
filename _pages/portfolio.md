@@ -14,7 +14,7 @@ toc_icon: "bookmark"
 
 A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/object-detection-detectron2)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/chriskhanhtran/object-detection-detectron](https://github.com/marcello2k18/Vehicle-Detection))
 
 - [Notebook 4]([(https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb])): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non Vehicle.
 
