@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 ## 🤖 Computer Vision
 ### Vehicle Detection with CNN
 
-<img src="https://raw.githubusercontent.com/marcello2k18/Vehicle-Detection/refs/heads/main/bugati%20emblem.jpeg" width="200">
+<img src="https://raw.githubusercontent.com/marcello2k18/Vehicle-Detection/refs/heads/main/bugati%20emblem.jpeg" width="80px">
 
 A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
 
