@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f0f36fde-21f4-4ea9-a008-c644749579ee)---
 permalink: /portfolio/
 title: "Portfolio"
 toc: true
