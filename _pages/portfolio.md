@@ -20,7 +20,7 @@ A series of notebooks to dive deep into popular datasets for object detection an
 - [Notebook 4](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/04-train-big.ipynb): Train Detectron2 on Open Images dataset to detect musical instruments.
 - [Notebook 5](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/05-kaggle-global-wheat-detection.ipynb): Apply Detectron2 on [Kaggle Global Wheat Detection Competition](https://www.kaggle.com/c/global-wheat-detection).
 
-<img src="https://raw.githubusercontent.com/chriskhanhtran/object-detection-detectron2/master/images/output_04.png" width="580">{: .align-center}
+<img src="[https://raw.githubusercontent.com/chriskhanhtran/object-detection-detectron2/master/images/output_04.png](https://github.com/marcello2k18/Vehicle-Detection/blob/main/Vehicle%20Detection.png)" width="580">{: .align-center}
 
 ### Visual Recognition for Vietnamese Foods
 
