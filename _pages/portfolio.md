@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f0f36fde-21f4-4ea9-a008-c644749579ee)---
 permalink: /portfolio/
 title: "Portfolio"
 toc: true
@@ -11,14 +11,13 @@ toc_icon: "bookmark"
 ## 🤖 Computer Vision
 ### Vehicle Detection with CNN
 
-<img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="200">
+<img src="https://www.mouser.com.gt/blog/Portals/11/Vehicle%20Detection%20AI_Theme%20Image_min.jpg" width="200">
 
 A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/object-detection-detectron2)
 
-- [Notebook 4](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/04-train-big.ipynb): Train Detectron2 on Open Images dataset to detect musical instruments.
-- [Notebook 5](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/05-kaggle-global-wheat-detection.ipynb): Apply Detectron2 on [Kaggle Global Wheat Detection Competition](https://www.kaggle.com/c/global-wheat-detection).
+- [Notebook 4]([(https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb])): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non Vehicle.
 
 <img src="https://github.com/marcello2k18/Vehicle-Detection/blob/main/Vehicle%20Detection.png?raw=true" width="580" align="middle">
 
