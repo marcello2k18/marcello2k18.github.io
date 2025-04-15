@@ -10,14 +10,11 @@ toc_icon: "bookmark"
 ## 🤖 Computer Vision
 ### Vehicle Detection with CNN
 
-<img src="https://raw.githubusercontent.com/marcello2k18/Vehicle-Detection/refs/heads/main/bugati%20emblem.jpeg" width="80px">
-
 A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/Vehicle-Detection)
 
 - [Notebook 4](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
-
 
 <img src="https://github.com/marcello2k18/Vehicle-Detection/blob/main/Vehicle%20Detection.png?raw=true" width="580" align="middle">
 
@@ -27,8 +24,6 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 - [Notebook 3](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
   
-I implemented the LSTM capability to help detect spam messages
-
 <img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/SMS%20Spam%20Detection.png" width="580" align="middle">
 
 ### Transformers for Spanish
