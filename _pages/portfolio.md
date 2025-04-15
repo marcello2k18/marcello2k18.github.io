@@ -21,37 +21,15 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 <img src="https://github.com/marcello2k18/Vehicle-Detection/blob/main/Vehicle%20Detection.png?raw=true" width="580" align="middle">
 
-### Visual Recognition for Vietnamese Foods
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://vietnamese-food.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/posts/vn-food-classifier/)
-
-I built a Computer Vision application to recognize popular Vietnamese dishes and display their information and stories. To build the application, I crawled 6,000 images using the Bing Image Search API and trained a ResNet-50 model. The model achieved 94% accuracy over 11 classes.
-
-<img src="https://github.com/chriskhanhtran/vn-food-app/blob/master/img/vn-food-app.gif?raw=true" width="580">{: .align-center}
-
-### CS231n: Convolutional Neural Networks for Visual Recognition
-
-This is my complete implementation of assignments and projects in [***CS231n: Convolutional Neural Networks for Visual Recognition***](http://cs231n.stanford.edu/) by Stanford (Spring, 2019). NumPy implementations of forward and backward pass of each layer in a convolutional neural network have given me a deep understanding of how state-of-the-art Computer Vision architectures work under the hood. In addition, I explored the inner beauty of Deep Learning by implementing Style Transfer, Deep Dream, Texture Systhesis in PyTorch and generating new images with GANs.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS231n-CV)
-
-**Selective Topics:**
-- [NumPy Implementations of CNN](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment2/cs231n/layers.py): Fully-connected Layer, Batchnorm, Layernorm, Dropout, Convolution, Maxpool.
-- [Image Captioning with LSTMs](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/LSTM_Captioning.ipynb)
-- [Saliency Maps, Deep Dream, Fooling Images](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb)
-- [Style Transfer](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/StyleTransfer-PyTorch.ipynb)
-- [Generative Adversarial Networks (GANs)](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
-
 ## 🎼 Natural Language Processing
-### Extractive Summarization with BERT
-[![Read Article](https://img.shields.io/badge/GitHub-Read_Article-blue?logo=GitHub)](https://chriskhanhtran.github.io/posts/extractive-summarization-with-bert/)
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://extractive-summarization.herokuapp.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/bert-extractive-summarization)
+### SMS Spam Detection with LSTM
+[![View on GitHub](https://img.shields.io/badge/GitHub-Read_Article-blue?logo=GitHub)](https://github.com/marcello2k18/Spam-Detection)
 
-I implemented the paper [Text Summarization with Pretrained Encoders (Liu & Lapata, 2019)](https://arxiv.org/abs/1908.08345) and trained MobileBERT and DistilBERT for extractive summarization. I also built a web app demo to illustrate the usage of the model.
+- [Notebook 3](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
+  
+I implemented the LSTM capability to help detect spam messages
 
-<img src="https://github.com/chriskhanhtran/minimal-portfolio/raw/master/images/bertsum.gif?raw=true">{: .align-center}
+<img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/SMS%20Spam%20Detection.png" width="580" align="middle">
 
 ### Transformers for Spanish
 A series of published articles with GitHub repository about my research and work projects in Transformer and its application on Spanish.
