@@ -20,61 +20,12 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 ## 🎼 Natural Language Processing
 ### SMS Spam Detection with LSTM
-[![View on GitHub](https://img.shields.io/badge/GitHub-Read_Article-blue?logo=GitHub)](https://github.com/marcello2k18/Spam-Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/Spam-Detection)
 
 - [Notebook 3](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
   
 <img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/SMS%20Spam%20Detection.png" width="580" align="middle">
 
-### Transformers for Spanish
-A series of published articles with GitHub repository about my research and work projects in Transformer and its application on Spanish.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/spanish-bert)
-
-**Articles:**
-- [Pre-train ELECTRA for Spanish from Scratch](https://chriskhanhtran.github.io/posts/electra-spanish/)
-- [SpanBERTa: Pre-train RoBERTa Language Model for Spanish from Scratch](https://chriskhanhtran.github.io/posts/named-entity-recognition-with-transformers/)
-- [Named Entity Recognition with Transformers](https://chriskhanhtran.github.io/posts/spanberta-bert-for-spanish-from-scratch/)
-
-### CS224n: Natural Language Processing with Deep Learning
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<img src="https://chriskhanhtran.github.io/minimal-portfolio/images/nlp.png" width="580">{: .align-center}
-
----
-### Social Media Analytics for Airline Industry: Fine-tuning BERT for Sentiment Analysis
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-
-The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.
-
-<img src="https://raw.githubusercontent.com/chriskhanhtran/minimal-portfolio/master/images/finetuning-bert.png" width="580">{: .align-center}
-
----
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.
-
-<img src="https://chriskhanhtran.github.io/minimal-portfolio/images/fb-food-trends.png" width="580">{: .align-center}
-
----
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.
-
-<img src="https://chriskhanhtran.github.io/minimal-portfolio/images/detect-spam-nlp.png" width="580">{: .align-center}
 
 ## 📈 Data Science
 ### Credit Risk Prediction Web App
