@@ -28,21 +28,20 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 
 ## 📈 Data Science
-### Credit Risk Prediction Web App
+### Customer Personality Analysis & Clustering
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/Customer-Personality)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/marcello2k18/Customer-Personality/blob/main/customer-personality-analysis-with-deployment-v1.ipynb)
 
-After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.
+After i  preprocessed a dataset of Customer Analysis and built machine learning models to predict cluster which the customer belongs to. I built an interactive user interface with flask and html.
 
-<img src="https://chriskhanhtran.github.io/minimal-portfolio/images/credit-risk-webapp.png" width="580">{: .align-center}
+<img src="https://raw.githubusercontent.com/marcello2k18/Customer-Personality/refs/heads/main/Customer-Personality.png" width="580" align="middle">
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Medical Price Predcition
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html)
 
 I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking **95/15502**, approximately **top 0.6%** in the Kaggle leaderboard.
 
