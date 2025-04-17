@@ -24,7 +24,7 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 - [Notebook 3](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
   
-<img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/SMS%20Spam%20Detection.png" width="580" align="middle">
+<img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/Spam-Detection.png" width="580" align="middle">
 
 
 ## 📈 Data Science
