@@ -7,23 +7,18 @@ header:
     provider: youtube
     
 ---
-### YouTube for Learning
+### 📺 YouTube Channels I Learn From
 
-YouTube has been a huge part of my self-learning journey, especially in programming and tech. I regularly follow these channels to build my skills, explore new tools, and stay motivated in my coding path.
+YouTube is one of my favorite platforms to self-learn programming and explore the tech world. These are some of the channels I frequently follow for high-quality tutorials, practical projects, and deep insights into coding.
 
-[![Programming with Mosh](https://yt3.googleusercontent.com/ytc/AGIKgqMxqFbUT4W7NcURiJDLRQEsmhNqbrll_cVwVaVLVQ=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@programmingwithmosh)  
-**[Programming with Mosh](https://www.youtube.com/@programmingwithmosh)**  
-Clear, structured tutorials for beginner to advanced programming.
+[![Programming with Mosh](https://img.shields.io/badge/YouTube-Programming%20with%20Mosh-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@programmingwithmosh)  
+Mosh Hamedani provides some of the clearest, most structured tutorials for both beginners and advanced learners. His content covers web development, Python, and software engineering best practices.
 
-[![Indently](https://yt3.googleusercontent.com/ytc/AGIKgqO9kV9iv6m8aTnAk8zRM7HXfygN4w7OTVhi04JPUw=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Indently)  
-**[Indently](https://www.youtube.com/@Indently)**  
-Real-world coding projects with creative twists and clean design.
+[![Indently](https://img.shields.io/badge/YouTube-Indently-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@Indently)  
+Indently focuses on building real-world projects with a clean and aesthetic coding style. A great source for creativity, especially in frontend design and UI inspiration.
 
-[![Bro Code](https://yt3.googleusercontent.com/ytc/AGIKgqPJxgGCLs0bXHgUooP7O_6uMT4h_38iA_0zWJgQ3w=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@BroCodez)  
-**[Bro Code](https://www.youtube.com/@BroCodez)**  
-Fun, practical programming tutorials with lots of variety.
+[![Bro Code](https://img.shields.io/badge/YouTube-Bro%20Code-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@BroCodez)  
+Bro Code offers fast-paced, practical tutorials with a fun twist. His videos range from Python and JavaScript to full-stack web apps and cool mini projects.
 
-[![Boot.dev](https://yt3.googleusercontent.com/ytc/AGIKgqPeG_k3z0M1-qcwGKxODzRRu9ZqBuHpsdVL3aMw-Q=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@bootdotdev)  
-**[Boot.dev](https://www.youtube.com/@bootdotdev)**  
-Backend development, computer science, and tech career advice.
- advice, and computer science fundamentals—ideal for those serious about a future in tech.
+[![Boot.dev](https://img.shields.io/badge/YouTube-Boot.dev-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@bootdotdev)  
+This channel dives into backend development, computer science fundamentals, and career advice in tech. It's a go-to source for anyone serious about mastering the backend.
