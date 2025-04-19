@@ -58,10 +58,3 @@ In this project, I will perform comprehensive exploratory data analysis (EDA) on
 <img src="https://raw.githubusercontent.com/marcello2k18/predicting-bank-churn/refs/heads/main/Bank-Prediction.png" width="580" align="middle">
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://chriskhanhtran.github.io/minimal-portfolio/pdf/bac2018.pdf)
-
-In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.
-
-<img src="https://chriskhanhtran.github.io/assets/images/portfolio/bac2018.JPG" width="580">{: .align-center}
