@@ -24,7 +24,7 @@ A series of notebooks to dive deep into popular datasets for object detection an
 
 - [Notebook 3](https://github.com/marcello2k18/Vehicle-Detection/blob/main/vehicle-detection-CNN.ipynb): Train Vehicle Detection on Vehicle Images dataset to detect Vehicle or Non-Vehicle.
   
-<img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/Spam-Detection.png" width="580" align="middle">
+<img src="https://raw.githubusercontent.com/marcello2k18/Spam-Detection/refs/heads/main/SMS%20Spam%20Detection%20-%20Marcello%20Roy.png" width="580" align="middle">
 
 
 ## 📈 Data Science
@@ -40,22 +40,22 @@ After i  preprocessed a dataset of Customer Analysis and built machine learning 
 ---
 ### Medical Price Predcition
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/Medical-Price-Prediction)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/marcello2k18/Medical-Price-Prediction/blob/main/Untitled.ipynb)
 
-I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking **95/15502**, approximately **top 0.6%** in the Kaggle leaderboard.
+I performed exploratory data analysis (EDA) to identify important variables, handled missing values and outliers, and applied feature engineering. I then used machine learning models to predict insurance costs based on factors such as age, sex, BMI, children, smoking status, and region.
 
-<img src="https://chriskhanhtran.github.io/assets/images/portfolio/ames-house-price.jpg" width="580">{: .align-center}
+<img src="https://raw.githubusercontent.com/marcello2k18/Medical-Price-Prediction/refs/heads/main/Medical-Price-Detection.png" width="580" align="middle">
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Bank Churn Prediction with SVM and Random Forest
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/minimal-portfolio/projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/predicting-bank-churn/blob/main/UAS%20Individu%20Code.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/marcello2k18/predicting-bank-churn)
 
-In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.
+In this project, I will perform comprehensive exploratory data analysis (EDA) on the bank churn dataset, followed by data transformation using feature selection techniques. I will then build and train a machine learning model, specifically a Support Vector Machine (SVM), to predict whether a customer will churn based on various features.
 
-<img src="https://chriskhanhtran.github.io/minimal-portfolio/images/breast-cancer.png" width="580">{: .align-center}
+<img src="https://raw.githubusercontent.com/marcello2k18/predicting-bank-churn/refs/heads/main/Bank-Prediction.png" width="580" align="middle">
 
 ---
 ### Business Analytics Conference 2018: How is NYC's Government Using Money?
