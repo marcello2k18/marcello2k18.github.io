@@ -1,24 +1,24 @@
 ---
 permalink: /films/
-title: "Films by me"
+title: "Films i like"
 header:
   video:
     id: vfZwdEWgUPE
     provider: youtube
     
 ---
-[![My Channel](https://img.shields.io/badge/YouTube-My Channel-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg)
+### YouTube for Learning
 
-Besides Data Science, I have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.
+YouTube has been a huge part of my self-learning journey, especially in programming and tech. I regularly follow these channels to build my skills, explore new tools, and stay motivated in my coding path:
 
-**Ada Von Weiss - You Regret (Winter at Niagara)**
-{% include video id="-5esqvmPnHI" provider="youtube" %}
+**[Programming with Mosh](https://www.youtube.com/@programmingwithmosh)**  
+One of the best instructors for foundational and advanced programming concepts. His tutorials are clear, structured, and beginner-friendly.
 
-**The Weight We Carry is Love - TORONTO**
-{% include video id="vfZwdEWgUPE" provider="youtube" %}
+**[Indently](https://www.youtube.com/@Indently)**  
+Focused on real-world projects and creative coding challenges, Indently helps turn ideas into working apps with style.
 
-**In America - Boston 2017**
-{% include video id="YdXufiebgyc" provider="youtube" %}
+**[Bro Code](https://www.youtube.com/@BroCodez)**  
+Offers practical coding tutorials with a touch of humor. Covers a wide range of programming languages and tools.
 
-**In America - We Call This Place Our Home (Massachusetts)**
-{% include video id="jzfcM_iO0FU" provider="youtube" %}
+**[Boot.dev](https://www.youtube.com/@bootdotdev)**  
+A great channel for backend development, career advice, and computer science fundamentals—ideal for those serious about a future in tech.
