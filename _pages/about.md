@@ -7,7 +7,7 @@ header:
 
 <img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/roy-modified.png" width="250">{: .align-center}
 
-[Resume](https://marcello2k18.github.io/Marcello-Roy.github.io/cv/){: .btn .btn--info} [Portfolio](https://marcello2k18.github.io/Marcello-Roy.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/marcello){: .btn .btn--info}
+[Resume](https://marcello2k18.github.io/cv/){: .btn .btn--info} [Portfolio](https://marcello2k18.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/marcello-roy-588925204/){: .btn .btn--info}
 {: .text-center}
 
 ## Career Objectives
@@ -15,12 +15,12 @@ My name is Marcello. I am a Machine Learning & Data Enthusiast with experience i
 
 Find more about my projects here:
 
-[View My Portfolio](https://marcello2k18.github.io/Marcello-Roy.github.io/portfolio/){: .btn .btn--info}
+[View My Portfolio](https://marcello2k18.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
 
 I enjoy learning from online communities, contributing to open-source, and documenting my progress in tech and personal growth.
 
-[Read My Blog Posts](https://marcello2k18.github.io/Marcello-Roy.github.io/posts/){: .btn .btn--info}
+[Read My Blog Posts](https://marcello2k18.github.io/){: .btn .btn--info}
 {: .text-center}
 
 ## Hobbies
