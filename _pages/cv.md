@@ -32,7 +32,7 @@ toc_icon: "bookmark"
 - Provided guidance on using data processing frameworks and tools.
 - Supported students in completing lab assignments and projects.
 
-###PT Karya Generasi Nusantara
+### PT Karya Generasi Nusantara
 ***Data Research Analyst Intern***
 
 *Jan 2023 – Jul 2023 · Jakarta*
