@@ -1,12 +1,12 @@
 ---
 permalink: /films/
-title: "Films i like"
+title: "Films I Like"
 header:
   video:
     id: vfZwdEWgUPE
     provider: youtube
-    
 ---
+
 ### 📺 YouTube Channels I Learn From
 
 YouTube is one of my favorite platforms to self-learn programming and explore the tech world. These are some of the channels I frequently follow for high-quality tutorials, practical projects, and deep insights into coding.
