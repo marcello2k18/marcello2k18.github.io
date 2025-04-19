@@ -18,35 +18,12 @@ Find more about my projects here:
 [View My Portfolio](https://marcello2k18.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
 
-I enjoy learning from online communities, contributing to open-source, and documenting my progress in tech and personal growth.
-
-[Read My Blog Posts](https://marcello2k18.github.io/){: .btn .btn--info}
-{: .text-center}
-
 ## Hobbies
-### Photography
-I've always loved looking at the stars and capturing beautiful moments. My passion for photography helps me express stories without words.
+### Epic Reading
+Epic tales help me reflect on values, identity, and the timeless struggle between light and shadow. Growing up with Hindu influences in Indonesia, I was drawn to the *Mahabharata* and *Ramayana*. Later, I explored stories of Baldwin, Salahudin, and the Ottoman Empire—each filled with courage, honor, and the weight of destiny.
 
-<img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/milkyway-1280x853.jpg" width="580">{: .align-center}
-*The Milky Way and fireflies, taken by me during a night shoot*
-{: .small}
-{: .text-center}
+> "Sometimes, in the silence of a late night, I turn a page and suddenly feel like I’m walking beside Arjuna on the battlefield, or listening to Saladin’s quiet wisdom before a storm. In those moments, I’m not just reading—I’m living a thousand lives across time, carried by words that feel like destiny."
 
-I also enjoy editing short films of trips I’ve taken.
-
-[Watch My Short Films](https://marcello2k18.github.io/Marcello-Roy.github.io/films/){: .text-center}{: .btn .btn--info}
-{: .text-center}
-
-### Long Distance Running
-Running helps me reflect and challenge myself. Inspired by Haruki Murakami's writings, I use running as both exercise and meditation.
-
-> "As I run I tell myself to think of a river. And clouds. But essentially I'm not thinking of a thing. All I do is keep on running in my own cozy, homemade void, my own nostalgic silence..."
-
-<cite>Haruki Murakami</cite> — ***What I Talk About When I Talk About Running***
-{: .small}
+<cite>Marcello Roy</cite> — *Reflections from the Epics*  
+{: .small}  
 {: .text-right}
-
-<img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/lbm-2016.jpg" width="400">{: .align-center}
-*My first half-marathon race*
-{: .small}
-{: .text-center}
