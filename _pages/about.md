@@ -5,7 +5,7 @@ header:
   image: /assets/images/Header-Roy.png
 ---
 
-<img src="https://marcello2k18.github.io/Marcello-Roy.github.io/assets/images/roy-modified.png" width="250">{: .align-center}
+<img src="https://raw.githubusercontent.com/marcello2k18/marcello2k18.github.io/refs/heads/main/assets/images/roy-modified.png" width="250">{: .align-center}
 
 [Resume](https://marcello2k18.github.io/cv/){: .btn .btn--info} [Portfolio](https://marcello2k18.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/marcello-roy-588925204/){: .btn .btn--info}
 {: .text-center}
