@@ -97,10 +97,10 @@ compress_html:
     envs: development
 
 # Collections
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+ #resources:
+    #output: true
+    #permalink: /:collection/:path/
 
 collections:
   pages:
