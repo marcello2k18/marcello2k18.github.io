@@ -7,7 +7,7 @@ title: "Films I Like"
 
 YouTube is one of my favorite platforms to self-learn programming and explore the tech world. These are some of the channels I frequently follow for high-quality tutorials, real-world projects, and deep insights into coding.
 
-[![Programming with Mosh](https://yt3.googleusercontent.com/ytc/AGIKgqOGY8DCk3bhILNQWkzN_-DGRqpkWUbvDdDFy_QD=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@programmingwithmosh)  
+[![Programming with Mosh](https://yt3.googleusercontent.com/ytc/AGIKgqOGY8DCk3bhILNQWkzN_-DGRqpkWUbvDdDFy_QD=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)  
 **Programming with Mosh**  
 Clear and structured tutorials on web development, Python, and software engineering best practices.
 
