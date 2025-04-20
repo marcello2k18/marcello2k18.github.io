@@ -68,10 +68,10 @@ footer:
       url: https://www.youtube.com/channel/channelkamu
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 10
-paginate_path: /page:num/
-timezone: Asia/Jakarta
+#permalink: /:categories/:title/
+#paginate: 10
+#paginate_path: /page:num/
+#timezone: Asia/Jakarta
 
 # Plugins
 plugins:
@@ -83,12 +83,12 @@ plugins:
   - jekyll-redirect-from
 
 # Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+  #type: liquid
+  #path: /categories/
+#tag_archive:
+  #type: liquid
+  #path: /tags/
 
 # Compress HTML
 compress_html:
