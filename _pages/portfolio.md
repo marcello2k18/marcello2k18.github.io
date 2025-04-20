@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-*Updated: 08/12/2020*
+*Updated: 04/19/2025*
 
 ## 🤖 Computer Vision
 ### Vehicle Detection with CNN
