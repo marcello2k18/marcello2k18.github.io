@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 ## 🤖 Computer Vision
 ### Vehicle Detection with CNN
 
-A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
+A series of notebooks to dive deep into popular datasets for object detection on kaggle datasets.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcello2k18/Vehicle-Detection)
 
