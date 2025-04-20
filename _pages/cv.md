@@ -7,7 +7,7 @@ toc_icon: "bookmark"
 ---
 [Download Resume](https://github.com/marcello2k18/marcello2k18.github.io/blob/main/files/CV%20ATS%20MARCELLO%20ROY.pdf){: .btn .btn--info}
 
-*Updated: 08/12/2020*
+*Updated: 20/04/2025*
 
 ## 📧 Contact
 - Email: [marcello2k18@gmail.com]()
