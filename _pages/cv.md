@@ -45,7 +45,7 @@ toc_icon: "bookmark"
 ### IT Support Specialist
 ***IT Intern***
 
-*March 2019 – July 2019, Buffalo, NY*
+*April 2020 – Agustus 2020, Cipondoh, Pinang*
 
 - Ensured optimal placement and installation of CCTV cameras to maximize coverage and minimize blind spots, enhancing overall security.
 - Performed troubleshooting and maintenance on CCTV systems, diagnosing and resolving issues to ensure continuous and reliable operation.
@@ -53,16 +53,16 @@ toc_icon: "bookmark"
 
 ## 🎓 Education
 ### Multimedia Nusantara University
-**Bachelor of Business Administration in Accounting, 2019**
+**Bachelor of Computer Sciences, 2025**
 - GPA: 3.56/4.00,
 - Tution Fee and 1st Year Scholarship
 - Coursework: Business Analytics, Linear Models, Management Information Systems, Econometrics
 
 ## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (SAS), R, SQL
 - **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
 - **Others:** 
   - Cloud Computing: GCP
   - Visualization: Tableau, Matplotlib, Seaborn
-  - Statistical Tools: SAS, SPSS, Excel
-  - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
+  - Statistical Tools: SAS, Excel
+  - Design and Video Editing: Adobe Photoshop, Premiere
